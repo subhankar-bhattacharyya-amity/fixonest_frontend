@@ -1,0 +1,9 @@
+export { default as HeroSection } from "./HeroSection.jsx";
+export { default as ServicesSection } from "./ServicesSection.jsx";
+export { default as FeaturedServicesSection } from "./FeaturedServicesSection.jsx";
+export { default as HowItWorksSection } from "./HowItWorksSection.jsx";
+export { default as StatsSection } from "./StatsSection.jsx";
+export { default as TestimonialsSection } from "./TestimonialsSection.jsx";
+export { default as FaqSection } from "./FaqSection.jsx";
+export { default as FinalCtaSection } from "./FinalCtaSection.jsx";
+export { default as QuickBookButton } from "./QuickBookButton.jsx";
